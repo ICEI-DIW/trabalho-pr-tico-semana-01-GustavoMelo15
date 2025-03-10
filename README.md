@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Gustavo de Faria Melo
+Matricula: 895565
 
 ## Tela de inspeção com navegador
-
-
+![img](img1.png)
+ 
 ## Tela de projeto no Replit
-
+![img](img2.png)
